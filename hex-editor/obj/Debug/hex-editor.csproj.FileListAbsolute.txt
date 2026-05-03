@@ -1,0 +1,11 @@
+C:\Users\User\Documents\hex-editor\hex-editor\obj\Debug\hex-editor.csproj.AssemblyReference.cache
+C:\Users\User\Documents\hex-editor\hex-editor\obj\Debug\hex_editor.Properties.Resources.resources
+C:\Users\User\Documents\hex-editor\hex-editor\obj\Debug\hex-editor.csproj.GenerateResource.cache
+C:\Users\User\Documents\hex-editor\hex-editor\obj\Debug\hex-editor.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\hex-editor\hex-editor\bin\Debug\hex-editor.exe.config
+C:\Users\User\Documents\hex-editor\hex-editor\bin\Debug\hex-editor.exe
+C:\Users\User\Documents\hex-editor\hex-editor\bin\Debug\hex-editor.pdb
+C:\Users\User\Documents\hex-editor\hex-editor\obj\Debug\hex-editor.exe
+C:\Users\User\Documents\hex-editor\hex-editor\obj\Debug\hex-editor.pdb
+C:\Users\User\Documents\hex-editor\hex-editor\bin\Debug\MaterialSkin.dll
+C:\Users\User\Documents\hex-editor\hex-editor\obj\Debug\hex-editor.csproj.Up2Date
